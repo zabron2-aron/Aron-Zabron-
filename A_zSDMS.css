@@ -1,0 +1,148 @@
+html{
+	scroll-behavior: smooth;
+}
+/*
+
+@media only screen and (min-width: 600px) {
+	nav{
+	  background-color: lightblue;
+	}
+  }
+*/
+
+
+body{
+	  background-image: url(images/mini-profile-bg-01.jpg);
+	 font-family: Roboto;
+	  font-size: 24px;
+    overflow-x: visible;
+    background-attachment: fixed;
+}
+/*========THIS IS THE CSS FOR THE DASHBOARD IN A_ZSMS_dashboaord.html==========*/
+			nav{
+			    background: wheat;
+			    height: 12vh;
+			    width: 100%;
+			    top: 0%;
+			    left: 0%;
+			    display: flex;
+	        z-index: 1;
+	        align-items: center;
+	        justify-content: space-between;
+	        border: none;
+	        box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+	        position: fixed;
+	       }
+
+	   .left_sidebar_nav{
+			background: wheat;
+			height: 12vh;
+			width: 100%;
+			top: 0;
+			position: absolute;
+			z-index: 1;
+			left: 0%;
+		}
+		/*Main menubar at the top*/
+		.fa-bars{
+			color: #ffffff;
+			font-size: 150%;
+			margin-left: 20px;
+			margin-top: 10px;
+			margin-bottom: 10px;
+			background: wheat;
+		}
+		.left_sidebar{
+			background-color: whitesmoke;
+			width: 0%;
+			position: fixed;
+	        box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+	       overflow: hidden;
+	        top: 0%;
+	        left: 0%;
+	        height: 100vh;
+	        transition: height 0.5s;
+	   }
+	.left_sidemenu_list{
+	list-style: none;
+	display: grid;
+	position:absolute;;
+	left: 1%;
+	top: 8%;
+	   }
+
+	   .h4{
+	   	margin-right: 85%;
+	   	font-size: 36px;
+	   	color: purple;
+	   }
+a{
+	text-decoration: none;
+	color:rgb(61, 60, 60);
+}
+.profpic_1{
+	width: 70px;
+	height: 70px;
+	border-radius: 50%;
+	display:inline-block;
+	margin-left:15%;
+	z-index:1;
+	align-items: center;
+}
+   .welcome_areatext{
+	  background:white;
+	  width: 50%;
+	  height: fit-content;
+	  z-index: 1;
+	  text-align: justify;
+	  border-radius: 5%;
+	  margin: 100% 25% 0%;
+	  box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+	
+	}
+
+   .welcome_education{
+	  background:white;
+	  width: 50%;
+	  z-index: 1;
+	  text-align: le;
+	  border-radius: 5%;
+	  margin: 1% 25%;
+	  box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+
+   }
+#footer-home{
+	bottom: 0%;	
+	left: 0%;
+	width: 100%;
+	background: white;
+	font-size: 20px;
+	position: fixed;
+	height: 0%;
+}
+#footer-home,.li_footer{
+	display: inline-block;
+	list-style-type: none;
+	text-align: center;
+	font-size: auto;
+}
+.p1{
+	color: auto;
+	margin:0% 2% 2% 2%;
+}
+.about_profpic{
+	display: block;
+	width: 150px;
+	height: 150px;
+	margin-left: auto;
+	margin-right:auto ;
+	margin-bottom: 2%;
+	border-radius: 50%;
+
+}
+.figcaptionstyle{
+	text-align: center;
+}
+ hr{
+	 border-style: none;
+ }
