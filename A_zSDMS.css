@@ -96,10 +96,7 @@ a{
 	  z-index: 1;
 	  text-align: justify;
 	  border-radius: 5%;
-	  margin-top: 100%;
-          margin-right:22.5%
-          margin-left:1%
-
+	  margin: 100% 1% 0% 22.5%;
 	  box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
 	
 	}
@@ -110,7 +107,7 @@ a{
 	  z-index: 1;
 	  text-align: le;
 	  border-radius: 5%;
-	  margin: 1% 25%;
+	  margin: 100% 1% 0% 22.5%;
 	  box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
 
    }
