@@ -83,12 +83,14 @@ body{
 */
 a{
 	text-decoration: none;
-	color:rgb(61, 60, 60);
+        
+        color:green;
+        
 }
 /*
 .profpic_1{
-	width: 70px;
-	height: 70px;
+	width: 50px;
+	height: 50px;
 	border-radius: 50%;
 	display:inline-block;
 	margin-left:auto;
@@ -100,12 +102,12 @@ a{
 .menubar{
 	
 	display:inline-block;
-	margin-left:auto;
+	margin-left:5%;
 	z-index:1;
-	align-items: center;
 	text-align: center;
 	font-size: auto;
         width:100%;
+        color:green;
 }
    .welcome_areatext{
 	  background:white;
