@@ -2,7 +2,7 @@
 $(document).ready(function () {
  $(".fa-bars").click(function(){
    $(".left_sidebar").css("width","22.5%");
-   $(".left_sidebar").css("height","90vh");
+   $(".left_sidebar").css("height","75%");
   });
 
   $(".fa-user-circle").click(function(){
@@ -19,7 +19,7 @@ $(document).ready(function () {
   });
 $(".fa-sms").click(function(){
   $("#footer-home").css("height","fit-content");
-  $(".left_sidebar").css("height","fit-content");
+ /* $(".left_sidebar").css("height","fit-content");*/
   
 });
 
