@@ -1,8 +1,8 @@
 
 $(document).ready(function () {
  $(".fa-bars").click(function(){
-   $(".left_sidebar").css("width","22.5%");
-   $(".left_sidebar").css("height","75%");
+   $(".left_sidebar").css("width","25%").css("height","50%").$(".left_sidemenu_list").css("top","15%");
+ 
   });
 
   $(".fa-user-circle").click(function(){
@@ -12,7 +12,7 @@ $(document).ready(function () {
   });
 
   $(".fa-laptop-house").click(function(){  
-    $(".welcome_areatext").css("margin-top","-50vh");
+    $(".welcome_areatext").css("margin-top","-40vh");
     $("#footer-home").css("height","0%");
    
   
