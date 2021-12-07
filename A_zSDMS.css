@@ -91,7 +91,7 @@ a{
 }
    .welcome_areatext{
 	  background:white;
-	  width: auto;
+	  width: 75%;
 	  height: fit-content;
 	  z-index: 1;
 	  text-align: justify;
@@ -103,9 +103,8 @@ a{
 
    .welcome_education{
 	  background:white;
-	  width: auto;
+	  width: 75%;
 	  z-index: 1;
-	  text-align: le;
 	  border-radius: 5%;
 	  margin: 1% 1% 0% 22.5%;
 	  box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
