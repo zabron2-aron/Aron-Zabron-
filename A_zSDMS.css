@@ -98,6 +98,7 @@ a{
 	  border-radius: 5%;
 	  margin: 100% 1% 0% 22.5%;
 	  box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+          padding:8%;
 	
 	}
 
@@ -108,6 +109,7 @@ a{
 	  border-radius: 5%;
 	  margin: 1% 1% 0% 22.5%;
 	  box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+          padding:8%;
 
    }
 #footer-home{
