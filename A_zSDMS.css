@@ -98,13 +98,14 @@ a{
 */
 
 .menubar{
-	margin-right: 75%;
+	
 	display:inline-block;
 	margin-left:auto;
 	z-index:1;
 	align-items: center;
 	text-align: center;
 	font-size: auto;
+        width:100%;
 }
    .welcome_areatext{
 	  background:white;
