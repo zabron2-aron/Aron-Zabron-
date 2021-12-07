@@ -1,5 +1,6 @@
 html{
 	scroll-behavior: smooth;
+        font-family:'Times New Roman',Times, sans-serif;
 }
 /*
 
@@ -14,8 +15,8 @@ html{
 body{
 	  background-image: url(Images/bg_image_01.jpg);
 	 font-family: Roboto;
-	  font-size: 24px;
-    overflow-x: visible;
+	  font-size: auto;
+    overflow-x: hidden;
     background-attachment: fixed;
 }
 /*========THIS IS THE CSS FOR THE DASHBOARD IN A_ZSMS_dashboaord.html==========*/
@@ -68,8 +69,8 @@ body{
 	list-style: none;
 	display: grid;
 	position:absolute;;
-	left: 0%;
-	top: 1%;
+	margin-left: 0%;
+	margin-top: 25%;
 	   }
 
 	   .h4{
@@ -97,7 +98,7 @@ a{
 	  z-index: 1;
 	  text-align: justify;
 	  border-radius: 5%;
-	  margin-top: 100%;
+	  margin-top: 200%;
 	  box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
           padding:1%%;
 	
