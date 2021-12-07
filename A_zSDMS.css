@@ -55,13 +55,14 @@ body{
 		.left_sidebar{
 			background-color: whitesmoke;
 			width: 0%;
+                        height:0%;
 			position: fixed;
-	        box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
-	       overflow: hidden;
-	        top: 0%;
-	        left: 0%;
-	        height: 100vh;
-	        transition: height 0.5s;
+	                box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+	                overflow: hidden;
+	                top: 0%;
+	                left: 0%;
+	                height: 100vh;
+	                transition: height 0.5s;
 	   }
 	.left_sidemenu_list{
 	list-style: none;
