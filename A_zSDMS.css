@@ -93,10 +93,11 @@ a{
 	width: 50px;
 	height: 50px;
 	border-radius: 50%;
-	display:inline-block;
-	margin:1% 1% 1% 90%;
+	display:block;
+	margin:2% 5% 2% 91%;
 	z-index:1;
         position:fixed;
+       
 
 }
 
@@ -107,7 +108,7 @@ a{
 	margin-left:5%;
 	z-index:1;
 	text-align: left;
-	font-size: 60%;
+	font-size: 100px;
         width:100%;
         color:green;
 }
