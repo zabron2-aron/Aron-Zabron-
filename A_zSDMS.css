@@ -13,9 +13,8 @@ html{
 
 
 body{
-	  background-image: url(Images/mini-profile-bg-01.jpg);
-	 font-family: Roboto;
-	  font-size: auto;
+    background-image: url(Images/mini-profile-bg-01.jpg);
+    font-size: auto;
     overflow-x: hidden;
     background-attachment: fixed;
 }
@@ -113,6 +112,8 @@ a{
 height: 12vh;
 position:fixed 
 margin-top: 0%;
+left:0;
+right:0;
 }
    .welcome_areatext{
 	  background:white;
