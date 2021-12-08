@@ -107,20 +107,29 @@ right:0;
 width:20%;
 
 }
+/*
 .menubar{
 	
 	display:inline-block;
-	margin-left:5%;
-margin-right:20%;
 	z-index:1;
 	text-align: left;
-        width:80%;
         color:green;
 height: 12vh;
-position:fixed 
-padding-top: 4vh;
-padding-bottom:4vh;
+padding-top: 2%;
+padding-bottom:2%;
 
+}*/
+#menubarbox{
+position:left;
+margin-right:15%;
+left:0;
+width:80%;
+color:green;
+height: 12vh;
+padding-top: 2%;
+padding-bottom:2%;
+z-index:1;
+display:inline-block;
 }
    .welcome_areatext{
 	  background:white;
