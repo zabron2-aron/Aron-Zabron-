@@ -94,8 +94,8 @@ a{
 	border-radius: 50%;
 	display:block;
 	z-index:1;
-        position:relative;
-height:12hv;
+        position:fixed;
+
        
 
 }
