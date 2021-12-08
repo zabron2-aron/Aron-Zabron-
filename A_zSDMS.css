@@ -101,11 +101,11 @@ a{
 }
 
 #profpicbox{
-/*position:right;*/
-margin-left:85%;
-right:0;
+/*position:right;
+margin-right:85%;*/
 width:20%;
-float:right;
+float:left;
+height:12vh;
 
 }
 /*
@@ -121,16 +121,16 @@ padding-bottom:2%;
 
 }*/
 #menubarbox{
-/*margin-right:15%;*/
+margin-right:20%;
 left:0%;
 width:80%;
 color:green;
 height: 12vh;
-padding-top: 2%;
-padding-bottom:2%;
+padding-top: auto;
+padding-bottom:auto;
 z-index:1;
 display:inline-block;
-float:left;
+
 }
    .welcome_areatext{
 	  background:white;
@@ -177,8 +177,8 @@ float:left;
 }
 .about_profpic{
 	display: block;
-	width: 150px;
-	height: 150px;
+	width: 100px;
+	height: 100px;
 	margin-left: auto;
 	margin-right:auto ;
 	margin-bottom: 2%;
