@@ -94,7 +94,7 @@ a{
 	height: 50px;
 	border-radius: 50%;
 	display:block;
-	margin:2% 5% 2% 91%;
+	margin:2% 25% 2% 70%;
 	z-index:1;
         position:absolute;
        
@@ -108,10 +108,11 @@ a{
 	margin-left:5%;
 	z-index:1;
 	text-align: left;
-	font-size: 100px;
         width:100%;
         color:green;
 height: 12vh;
+position:fixed 
+margin-top: 0%;
 }
    .welcome_areatext{
 	  background:white;
