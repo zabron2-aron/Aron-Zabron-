@@ -27,7 +27,7 @@ body{
 			    left: 0%;
 			    display: flex;
 	        z-index: 1;
-	        align-items: center;
+	        /*align-items: center;*/
 	        justify-content: space-between;
 	        border: none;
 	        box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
@@ -101,7 +101,7 @@ a{
 }
 
 #profpicbox{
-position:right;
+/*position:right;*/
 margin-left:85%;
 right:0;
 width:20%;
@@ -121,9 +121,8 @@ padding-bottom:2%;
 
 }*/
 #menubarbox{
-position:left;
-margin-right:15%;
-left:0;
+/*margin-right:15%;*/
+left:0%;
 width:80%;
 color:green;
 height: 12vh;
