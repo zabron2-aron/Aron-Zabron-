@@ -105,6 +105,7 @@ position:right;
 margin-left:85%;
 right:0;
 width:20%;
+float:right;
 
 }
 /*
@@ -130,6 +131,7 @@ padding-top: 2%;
 padding-bottom:2%;
 z-index:1;
 display:inline-block;
+float:left;
 }
    .welcome_areatext{
 	  background:white;
