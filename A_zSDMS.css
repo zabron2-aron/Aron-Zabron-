@@ -37,7 +37,7 @@ margin-left:4%;
 width:20%;
 float:left;
 height:12vh;
-padding-top:5px;
+padding-top:10px;
 }
 #menubarbox{
 margin-right:auto;
@@ -48,7 +48,7 @@ padding-top: auto;
 padding-bottom:auto;
 z-index:1;
 display:inline-block;
-padding-top:5px;
+padding-top:10px;
 font-size:30px;
 }
 .welcome_areatext{
