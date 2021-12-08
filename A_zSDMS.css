@@ -94,20 +94,24 @@ a{
 	border-radius: 50%;
 	display:block;
 	z-index:1;
-        position:fixed;
-margin-left:85;
+        
 
        
 
 }
 
+#profpicbox{
+position:right;
+margin-left:85%;
+right:0;
+width:20%;
 
+}
 .menubar{
 	
 	display:inline-block;
-	margin-left:1%;
+	margin-left:5%;
 margin-right:20%;
-
 	z-index:1;
 	text-align: left;
         width:80%;
