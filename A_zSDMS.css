@@ -40,11 +40,8 @@ height:12vh;
 padding-top:20px;
 }
 #menubarbox{
-margin-right:auto;
-left:0%;
 width:80%;
 height: 12vh;
-padding-top: auto;
 padding-bottom:auto;
 z-index:1;
 display:inline-block;
