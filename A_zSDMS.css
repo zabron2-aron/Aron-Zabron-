@@ -40,16 +40,16 @@ height:12vh;
 padding-top:auto;
 }
 #menubarbox{
-margin-right:25%;
+margin-right:auto;
 left:0%;
 width:80%;
-color:green;
 height: 12vh;
 padding-top: auto;
 padding-bottom:auto;
 z-index:1;
 display:inline-block;
 padding-top:auto;
+font-size:60px;
 }
 .welcome_areatext{
 background:white;
