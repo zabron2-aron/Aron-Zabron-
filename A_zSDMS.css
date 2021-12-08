@@ -94,7 +94,7 @@ height: 50px;
 border-radius: 50%;
 display:block;
 z-index:1;
-padding:2%;
+
         
 
        
@@ -107,6 +107,8 @@ margin-right:85%;*/
 width:20%;
 float:left;
 height:12vh;
+padding-top:10%;
+padding-lef:10%;
 
 }
 /*
@@ -117,7 +119,7 @@ height:12vh;
 	text-align: left;
         color:green;
 height: 12vh;
-padding: 2%;
+
 
 
 }*/
@@ -131,6 +133,7 @@ padding-top: auto;
 padding-bottom:auto;
 z-index:1;
 display:inline-block;
+padding-top:10%;
 
 }
    .welcome_areatext{
