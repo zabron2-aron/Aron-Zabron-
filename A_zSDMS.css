@@ -95,6 +95,7 @@ a{
 	display:block;
 	z-index:1;
         position:fixed;
+margin-left:85;
 
        
 
@@ -104,15 +105,17 @@ a{
 .menubar{
 	
 	display:inline-block;
-	margin-left:5%;
+	margin-left:1%;
+margin-right:20%;
+
 	z-index:1;
 	text-align: left;
-        width:100%;
+        width:80%;
         color:green;
 height: 12vh;
 position:fixed 
-margin-top: 4vh;
-margin-bottom:4vh;
+padding-top: 4vh;
+padding-bottom:4vh;
 
 }
    .welcome_areatext{
