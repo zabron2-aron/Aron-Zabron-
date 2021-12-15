@@ -31,8 +31,8 @@ background-attachment: fixed;
 /*========THIS IS THE CSS FOR THE DASHBOARD IN A_ZSMS_dashboaord.html==========*/
 nav{
 background: wheat;
-/*height: 12vh;
-width: 100%;*/
+/*height: 12vh;*/
+width: 100%;
 top: 0%;
 left: 0%;
 display: flex;
