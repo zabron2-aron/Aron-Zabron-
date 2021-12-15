@@ -10,6 +10,7 @@ width:100%
 .welcome_areatext, .welcome_education{
 width:90%;
 margin-left 5%;
+margin-right:5%;
 
 }
 }
@@ -21,6 +22,7 @@ width:100%
 .welcome_areatext, .welcome_education{
 width:50%;
 margin-left 25%;
+margin-right:25%;  
 
 }
 }
@@ -33,8 +35,8 @@ background-attachment: fixed;
 /*========THIS IS THE CSS FOR THE DASHBOARD IN A_ZSMS_dashboaord.html==========*/
 .nav1{
 background: wheat;
-/*height: 12vh;*/
-width: 100%;
+/*height: 12vh;
+width: 100%;*/
 top: 0%;
 left: 0%;
 display: flex;
