@@ -3,8 +3,9 @@ scroll-behavior: smooth;
 font-family:'Times New Roman',Times, sans-serif;
 }
 @media screen and (max-width:480px){
-nav{
+nav1{
 height:fit-content;
+width:100%
 }
 .welcome_areatext, .welcome_education{
 width:90%;
@@ -13,8 +14,9 @@ margin-left 5%;
 }
 }
 @media screen and (min-width:481px){
-nav{
+nav1{
 height:fit-content;
+width:100%
 }
 .welcome_areatext, .welcome_education{
 width:50%;
