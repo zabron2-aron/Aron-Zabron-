@@ -3,7 +3,7 @@ scroll-behavior: smooth;
 font-family:'Times New Roman',Times, sans-serif;
 }
 @media screen and (max-width:480px){
-nav1{
+.nav1{
 height:fit-content;
 width:100%
 }
@@ -31,7 +31,7 @@ overflow-x: hidden;
 background-attachment: fixed;
 }
 /*========THIS IS THE CSS FOR THE DASHBOARD IN A_ZSMS_dashboaord.html==========*/
-nav{
+.nav1{
 background: wheat;
 /*height: 12vh;*/
 width: 100%;
