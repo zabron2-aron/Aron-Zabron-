@@ -9,11 +9,12 @@ width:100%
 }
 .welcome_areatext, .welcome_education{
 width:90%;
-margin-left 5%;
+margin-left:5%;
 margin-right:5%;
 
 }
 }
+
 @media screen and (min-width:1000px){
 .nav1{
 height:fit-content;
@@ -21,11 +22,12 @@ width:100%
 }
 .welcome_areatext, .welcome_education{
 width:50%;
-margin-left 25%;
+margin-left:25%;
 margin-right:25%;  
 
 }
 }
+
 body{
 background-image: url(Images/mini-profile-bg-01.jpg);
 font-size: auto;
