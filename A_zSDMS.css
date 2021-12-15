@@ -2,6 +2,26 @@ html{
 scroll-behavior: smooth;
 font-family:'Times New Roman',Times, sans-serif;
 }
+@media screen and (max-width:480px){
+nav{
+height:fit-content;
+}
+.welcome_areatext, .welcome_education{
+width:90%;
+margin-left 5%;
+
+}
+}
+@media screen and (min-width:481px){
+nav{
+height:fit-content;
+}
+.welcome_areatext, .welcome_education{
+width:50%;
+margin-left 25%;
+
+}
+}
 body{
 background-image: url(Images/mini-profile-bg-01.jpg);
 font-size: auto;
@@ -11,8 +31,8 @@ background-attachment: fixed;
 /*========THIS IS THE CSS FOR THE DASHBOARD IN A_ZSMS_dashboaord.html==========*/
 nav{
 background: wheat;
-height: 12vh;
-width: 100%;
+/*height: 12vh;
+width: 100%;*/
 top: 0%;
 left: 0%;
 display: flex;
@@ -41,7 +61,7 @@ padding-top:20px;
 }
 #menubarbox{
 width:80%;
-height: 12vh;
+/*height: 12vh;*/
 padding-bottom:auto;
 z-index:1;
 display:inline-block;
@@ -50,7 +70,7 @@ font-size:30px;
 }
 .welcome_areatext{
 background:white;
-width: 100%;
+/*width: 100%;*/
 height: fit-content;
 z-index: 1;
 text-align: justify;
@@ -61,7 +81,7 @@ padding:1%;
 }
 .welcome_education{
 background:white;
-width: 100%;
+/*width: 100%;*/
 z-index: 1;
 border-radius: 5%;
 margin-top: 15%;
