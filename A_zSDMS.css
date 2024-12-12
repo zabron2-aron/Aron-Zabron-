@@ -129,16 +129,18 @@ hr{
 border-style: none;
 }
 h2{
-font-size: 5vw,5vh;
+font-size: 5vw;
 }
 h4{
-  font-size: 4vw,4vh;
+  font-size: 4vw;
 }
 .p1{
-  font-size: 3vw,3vh;
+  font-size: 3vw;
 }
 .li_footer{
 display: inline-block;
 list-style-type: none;
 text-align: center;
-font-size: 5vw;
+font-size: vw;
+width: 100vw;
+}
