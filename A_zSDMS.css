@@ -107,7 +107,7 @@ height: 0%;
 display: inline-block;
 list-style-type: none;
 text-align: center;
-font-size: ;
+font-size: auto;
 }
 .p1{
 color: auto;
@@ -141,6 +141,6 @@ h4{
 display: inline-block;
 list-style-type: none;
 text-align: center;
-font-size: vw;
+font-size: 5vw;
 width: 100vw;
 }
