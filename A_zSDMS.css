@@ -102,8 +102,11 @@ background:#b2fdff;
 font-size: auto;
 position: fixed;
 height: 0%;
+display: inline-block;
+list-style-type: none;
+font-size: 5vw;
 }
-#footer-home,li{
+.li_footer{
 display: inline-block;
 list-style-type: none;
 font-size: 5vw;
