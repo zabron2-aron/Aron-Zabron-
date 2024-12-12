@@ -129,5 +129,11 @@ hr{
 border-style: none;
 }
 h2{
-font-size: 5vw;
+font-size: 4vw;
+}
+h4{
+  font-size: 3vw;
+}
+.p1{
+  font-size: 2vw;
 }
