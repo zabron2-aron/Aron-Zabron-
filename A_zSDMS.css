@@ -80,16 +80,16 @@ width: 100vw;
 height: fit-content;
 z-index: 1;
 text-align: justify;
-border-radius: 5%;
+/*border-radius: 5%;*/
 margin-top: 200%;
 box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
 padding:1%;
 }
 .welcome_education{
 background:white;
-/*width: 100%;*/
+width: 100vw;
 z-index: 1;
-border-radius: 5%;
+/*border-radius: 5%;*/
 margin-top: 15%;
 box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);padding:1%;
 text-align: justify;
