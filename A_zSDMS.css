@@ -76,7 +76,7 @@ font-size:30px;
 }
 .welcome_areatext{
 background:white;
-/*width: 100%;*/
+width: 100vw;
 height: fit-content;
 z-index: 1;
 text-align: justify;
