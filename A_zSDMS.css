@@ -103,7 +103,7 @@ font-size: auto;
 position: fixed;
 height: 0%;
 }
-#footer-home{
+#footer-home,li{
 display: inline-block;
 list-style-type: none;
 font-size: 5vw;
