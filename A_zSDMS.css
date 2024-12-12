@@ -30,7 +30,7 @@ margin-right:1%;
 
 body{
 background-image: url(Images/mini-profile-bg-01.jpg);
-font-size: auto;
+font-size: 3vw,3vh;
 overflow-x: hidden;
 background-attachment: fixed;
 }
@@ -103,11 +103,11 @@ font-size: auto;
 position: fixed;
 height: 0%;
 }
-#footer-home,.li_footer{
+#footer-home{
 display: inline-block;
 list-style-type: none;
 text-align: center;
-font-size: auto;
+font-size: ;
 }
 .p1{
 color: auto;
@@ -129,11 +129,16 @@ hr{
 border-style: none;
 }
 h2{
-font-size: 4vw;
+font-size: 5vw,5vh;
 }
 h4{
-  font-size: 3vw;
+  font-size: 4vw,4vh;
 }
 .p1{
-  font-size: 2vw;
+  font-size: 3vw,3vh;
 }
+.li_footer{
+display: inline-block;
+list-style-type: none;
+text-align: center;
+font-size: 5vw;
